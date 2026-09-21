@@ -14,11 +14,12 @@ pipeline {
             }
         }
 
-        stage('Test') {
-            steps {
-                bat 'python -m unittest discover -s tests -p "test_*.py"'
-            }
-        }
+       stage('Test') {
+    steps {
+        bat 'python -m pip install pytest'
+        bat 'python -m pytest tests'
+    }
+}
     }
 
     post {
