@@ -22,8 +22,7 @@ and generating portfolio summaries.
 
 ## Latest Update
 
-Added GitHub repository cloning and version control workflow.
-
+Updated GitHub workflow in the main branch.
 ## Feature Branch Update
 
 Added student portfolio feature details.
