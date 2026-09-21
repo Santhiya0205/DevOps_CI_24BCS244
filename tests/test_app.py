@@ -36,3 +36,12 @@ def test_portfolio_summary():
     result = portfolio_summary(achievements)
 
     assert result["total_achievements"] == 2
+
+    def test_another_achievement():
+    result = add_achievement(
+        "Student2",
+        "Web Development Certificate"
+    )
+
+    assert result["student"] == "Student2"
+    assert result["achievement"] == "Web Development Certificate"
