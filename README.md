@@ -21,5 +21,7 @@ and generating portfolio summaries.
 - Continuous Integration
 
 ## Latest Update
+Updated GitHub workflow after resolving the merge conflict.
 
-Added GitHub repository cloning and version control workflow.
+## Pull Request Feature
+Added a student achievement tracking feature.
