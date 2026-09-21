@@ -22,3 +22,6 @@ and generating portfolio summaries.
 
 ## Latest Update
 Updated GitHub workflow after resolving the merge conflict.
+
+## Pull Request Feature
+Added a student achievement tracking feature.
