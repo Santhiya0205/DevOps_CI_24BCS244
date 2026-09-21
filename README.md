@@ -21,8 +21,4 @@ and generating portfolio summaries.
 - Continuous Integration
 
 ## Latest Update
-
-Updated GitHub workflow in the main branch.
-## Feature Branch Update
-
-Added student portfolio feature details.
+Updated GitHub workflow after resolving the merge conflict.
