@@ -21,8 +21,7 @@ and generating portfolio summaries.
 - Continuous Integration
 
 ## Latest Update
-
-Added GitHub repository cloning and version control workflow.
+Updated GitHub workflow in the bugfix branch.
 
 ## Bug Fix
 
