@@ -19,3 +19,7 @@ and generating portfolio summaries.
 - Generate portfolio summary
 - Automated testing
 - Continuous Integration
+
+## Latest Update
+
+Added GitHub repository cloning and version control workflow.
