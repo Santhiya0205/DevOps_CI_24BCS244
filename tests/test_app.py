@@ -37,7 +37,8 @@ def test_portfolio_summary():
 
     assert result["total_achievements"] == 2
 
-    def test_another_achievement():
+
+def test_another_achievement():
     result = add_achievement(
         "Student2",
         "Web Development Certificate"
